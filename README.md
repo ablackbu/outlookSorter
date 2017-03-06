@@ -1,0 +1,2 @@
+# outlookSorter
+Sorts outlook mail 
